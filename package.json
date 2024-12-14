@@ -1,0 +1,12 @@
+{
+  "name": "book_reccomendation-main",
+  "version": "1.0.0",
+  "description": "A simple web application that helps you discover new books and get personalized recommendations. It allows users to search for books by title, view details about each book, and explore book recommendations based on their search.",
+  "main": "book-detail-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
